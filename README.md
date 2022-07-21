@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sasukei
-- 👀 I’m interested in Cryptography and Solidity
-- 🌱 I’m currently learning Solidity
+- 👀 I’m interested in Cryptography and Solidity and python
+- 🌱 I’m currently learning Solidity and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Sasuke-_@outlook.com
 
